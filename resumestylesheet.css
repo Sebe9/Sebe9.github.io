@@ -1,5 +1,12 @@
 body{
+    
     overflow-x:hidden
+    
+}
+@media (max-width:1350px){
+    body{
+        overflow-x:auto
+    }
 }
 th{
     font-size:50px;
